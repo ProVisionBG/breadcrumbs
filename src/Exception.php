@@ -1,4 +1,4 @@
-<?php namespace DaveJamesMiller\Breadcrumbs;
+<?php namespace ProVision\Breadcrumbs;
 
 class Exception extends \Exception {
 }
